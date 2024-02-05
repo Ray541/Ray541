@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **pranavrao541@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zn3YhzrHD1f_i_0g2pLdii_AZRop8S1r/view?usp=sharing](https://drive.google.com/file/d/1zn3YhzrHD1f_i_0g2pLdii_AZRop8S1r/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1jUzyJk92V4eXVME7kqCC4UWYkbOsS9MV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
