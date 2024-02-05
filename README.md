@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pranav Rao</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
 
-<h4 align="left">They Call me Ray</h4>
-<h align="3left">Centering div's...</h3>
+<h4 align="left">They Call me Ray ♠️</h4>
+<h3 align="3left">Centering div's...😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray541&label=Profile%20views&color=0e75b6&style=flat" alt="ray541" /> </p>
 
