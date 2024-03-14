@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray541&label=Profile%20views&color=0e75b6&style=flat" alt="ray541" /> </p>
 
-- 🔭 I’m currently working on **Instagram Clone Website**
+- ⚙️ I’m currently working on **Instagram Clone Website**
 
-- 🌱 I’m currently learning **React with Typescript and Next.js**
+- 📖 I’m currently learning **React with Typescript and Next.js**
 
 - 👨‍💻 All of my projects are available at [https://pranav-portfolio-ten.vercel.app/](https://pranav-portfolio-ten.vercel.app/)
 
-- 📫 How to reach me **pranavrao541@gmail.com**
+- 📫 Send me mails on  **pranavrao541@gmail.com**
 
-- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1jUzyJk92V4eXVME7kqCC4UWYkbOsS9MV/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1BKKdU4fllOqdyGyoRoGYJp-KQyG0X6gM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
