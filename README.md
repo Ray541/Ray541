@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ray541&label=Profile%20views&color=0e75b6&style=flat" alt="ray541" /> </p>
 
-- ⚙️ I’m currently working on **My Pollify priject using React, TypeScript, Node.js and MonogoDB**
+- ⚙️ I’m currently working on **My Pollify project using React, TypeScript, Node.js and MonogoDB** sit not dure for database pgsql or mongodb.
 
 - 📖 I’m currently learning **React with Typescript and Next.js**
 
