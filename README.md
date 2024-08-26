@@ -3,7 +3,7 @@
 
 <h3 align="3left">Centering div's...😊</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ray541&label=Profile%20views&color=0e75b6&style=flat" alt="ray541" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ray541&label=Profile%20views&color=0e75b6&style=flat" alt="ray541" /> </p>-->
 
 - ⚙️ I’m currently working on **My Pollify project using React, TypeScript, Node.js and MonogoDB** still not sure which database to be used pgsql or mongodb.
 
