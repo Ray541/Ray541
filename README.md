@@ -15,7 +15,7 @@
 - 🔭 I'm currently working at [Gesix Solutions](https://gesixsolutions.com/) as Junior Frontend Developer
 - 🚀 I'm looking to collaborate on [Pollify](https://github.com/Ray541/pollify.git)
 - 🤝 I'm looking for help with [Pollify](https://github.com/Ray541/pollify.git)
-- 📂 All of my projects are available at [my portfolio](https://pranavrao-portfolio.vercel.app/)
+- 📂 All of my projects and work history and about me is available at [Pranav Rao Portfolio](https://pranavrao-portfolio.vercel.app/)
 
 ---
 
@@ -24,15 +24,10 @@
 
 ---
 
-## 🛠️ Working on Technologies
+## 🛠️ Technologies Studing
 
-<div align="center>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</div>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ---
 
